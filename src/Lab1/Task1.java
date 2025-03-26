@@ -1,9 +1,9 @@
 package Lab1;
 
 import java.util.Scanner;
-public class Task1 {
+public class task1 {
 
-    public static void task1() {
+    public void task1() {
         Scanner scanner = new Scanner(System.in);
         int[] numbers = new int[10];
         System.out.println("Введіть " + 10 + " чисел:");

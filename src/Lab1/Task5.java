@@ -1,7 +1,7 @@
 package Lab1;//Task 5
 import java.util.Scanner;
-public class Task5 {
-    public static void task5() {
+public class task5 {
+    public void task5() {
         Scanner in = new Scanner(System.in);
         System.out.println("Input number: ");
         int number = in.nextInt();
