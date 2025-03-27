@@ -22,7 +22,7 @@ class car {
 }
 
 public class task4 {
-    public void task4() {
+    public void task() {
         car[] cars = new car[10];
 
         cars[0] = new car(150, 2.0, "Model S", "Red", 2022, "Tesla", 2000);

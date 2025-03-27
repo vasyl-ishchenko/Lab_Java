@@ -19,7 +19,7 @@ class user {
     }
 }
 public class task3 {
-    public void task3() {
+    public void task() {
         user[] users = new user[10];
 
         users[0] = new user(1, 42, "Ivan", "Ivanov", 70.5, 175.0);

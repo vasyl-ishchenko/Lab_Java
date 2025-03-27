@@ -1,7 +1,7 @@
 package Lab1;
 import java.util.Scanner;
 public class task2 {
-    public void task2() {
+    public void task() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введіть строку: ");
         String txt = scanner.nextLine();

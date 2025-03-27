@@ -17,19 +17,19 @@ public class Lab1 {
             
         switch (select) {
             case 1:
-                t1.task1();
+                t1.task();
                 break;
             case 2:
-                t2.task2();
+                t2.task();
                 break;
             case 3:
-                t3.task3();
+                t3.task();
                 break;
             case 4:
-                t4.task4();
+                t4.task();
                 break;
             case 5:
-                t5.task5();
+                t5.task();
                 break;
             default:
                 System.out.println("Програма завершена");

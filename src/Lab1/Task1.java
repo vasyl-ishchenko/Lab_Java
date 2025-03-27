@@ -3,7 +3,7 @@ package Lab1;
 import java.util.Scanner;
 public class task1 {
 
-    public void task1() {
+    public void task() {
         Scanner scanner = new Scanner(System.in);
         int[] numbers = new int[10];
         System.out.println("Введіть " + 10 + " чисел:");
