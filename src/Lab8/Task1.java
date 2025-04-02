@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Random;
 
 public class Task1 {
-    public static void task1(String[] args) {
+    public void task1(String[] args) {
         if (args.length < 3) {
             System.out.println("Введіть три параметри: ім'я файлу, нижню межу діапазону і верхню межу діапазону.");
             return;

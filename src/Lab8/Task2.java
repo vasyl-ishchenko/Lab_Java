@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Task2 {
-    public static void task2(String[] args) {
+    public void task2(String[] args) {
         if (args.length < 1) {
             System.out.println("Введіть ім'я файлу як параметр.");
             return;

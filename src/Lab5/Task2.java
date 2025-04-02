@@ -1,7 +1,7 @@
 package Lab5;
 
 public class Task2 {
-    public static void task2(int num1, int num2, int num3) {
+    public void task2(int num1, int num2, int num3) {
         int min = num1;
         if (num2 < min) {
             min = num2;

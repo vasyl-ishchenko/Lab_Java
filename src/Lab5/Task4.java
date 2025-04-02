@@ -1,7 +1,7 @@
 package Lab5;
 
 public class Task4 {
-    public static void task4(int[] arr) {
+    public void task4(int[] arr) {
         int max = arr[0];
         for (int j : arr) {
             if (j > max) {

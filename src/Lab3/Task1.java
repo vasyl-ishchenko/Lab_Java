@@ -1,7 +1,7 @@
 package Lab3;
 
 public class Task1 {
-    public static void task1() {
+    public void task1() {
         String phrase = "Привіт, світ!";
 
         System.out.println("\nFOR\n");

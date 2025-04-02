@@ -1,7 +1,7 @@
 package Lab4;
 
 public class Task1 {
-    public static void task1() {
+    public void task1() {
         int evenNumbers[] = new int[50];
         int oddNumbers[] = new int[50];
         for (int i = 0; i < 50; i++) {

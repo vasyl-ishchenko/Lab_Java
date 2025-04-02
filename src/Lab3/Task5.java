@@ -3,7 +3,7 @@ package Lab3;
 import java.util.Scanner;
 
 public class Task5 {
-    public static void task5_1() {
+    public void task5_1() {
         System.out.println("\nЗавдання 5 за допомогою циклу FOR\n");
         Scanner input = new Scanner(System.in);
 
@@ -29,7 +29,7 @@ public class Task5 {
         }
 
     }
-    public static void task5_2() {
+    public void task5_2() {
         System.out.println("\nЗавдання 5 за допомогою циклу WHILE\n");
         Scanner input = new Scanner(System.in);
 

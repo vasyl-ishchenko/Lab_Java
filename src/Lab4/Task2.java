@@ -1,7 +1,7 @@
 package Lab4;
 
 public class Task2 {
-    public static void task2() {
+    public void task2() {
         int[] arr = {2, 17, 13, 6, 22, 31, 45, 66, 100, -18};
 
         System.out.println("\nПеребір циклом while");

@@ -1,7 +1,7 @@
 package Lab3;
 
 public class Task3 {
-    public static void task3() {
+    public void task3() {
         int h = 0;
         int m = 0;
         while (h <= 2) {

@@ -3,7 +3,7 @@ package Lab2;
 import java.util.Scanner;
 
 public class Task4_2 {
-    public static void task4_2() {
+    public void task4_2() {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Введіть номер дня тижня (1 - понеділок, ..., 7 - неділя): ");

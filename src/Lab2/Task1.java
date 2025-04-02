@@ -3,7 +3,7 @@ package Lab2;
 import java.util.Scanner;
 
 public class Task1 {
-    public static void task1() {
+    public void task1() {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Введіть значення a: ");

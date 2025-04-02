@@ -4,33 +4,32 @@ import java.util.Scanner;
 public class Lab1 {
     public static void main(String[] args) {
         int select = 1;
-        task1 t1 = new task1();
+        Task1 t1 = new Task1();
+        Task2 t2 = new Task2();
+        Task3 t3 = new Task3();
+        Task4 t4 = new Task4();
+        Task5 t5 = new Task5();
 
-        while(true) {
+        while(select != 0) {
             Scanner input = new Scanner(System.in);
             System.out.println("\nInput number of task: ");
             select = input.nextInt();
             
         switch (select) {
             case 1:
-
-                t1.task();
+                t1.task1();
                 break;
             case 2:
-                task2 t2 = new task2();
-                t2.task();
+                t2.task2();
                 break;
             case 3:
-                task3 t3 = new task3();
-                t3.task();
+                t3.task3();
                 break;
             case 4:
-                task4 t4 = new task4();
-                t4.task();
+                t4.task4();
                 break;
             case 5:
-                task5 t5 = new task5();
-                t5.task();
+                t5.task5();
                 break;
             default:
                 System.out.println("Програма завершена");

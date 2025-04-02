@@ -3,7 +3,7 @@ package Lab2;
 import java.util.Scanner;
 
 public class Task4_1 {
-    public static void task4_1() {
+    public void task4_1() {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Введіть значення x: ");
